@@ -1,0 +1,6 @@
+// 1. state up means moving data form child to parent
+//  stateless or presentation components menas not having any states
+// statefull componets are using a state inside the function
+useSate() 
+// It is Hook in react it use to re-render the function when a change is made to the property
+
